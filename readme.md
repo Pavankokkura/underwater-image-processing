@@ -1,4 +1,4 @@
-# Underwater Image Processing and Object Detection
+# Underwater Image Processing and Object Detection (CNN)
 
 ## Overview
 This project focuses on advanced underwater image processing and object detection using Convolutional Neural Networks (CNN). It combines sophisticated color balance techniques with deep learning models to enhance underwater image quality and detect both natural and man-made objects in marine environments.
